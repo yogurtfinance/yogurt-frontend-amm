@@ -33,7 +33,7 @@ const config: MenuEntry[] = [
   },
   // {
   //   label: 'Lottery',
-  //   icon: 'TicketIcon',
+  // //  icon: 'TicketIcon',
   //   href: 'https://www.yogurtfinance.com/lottery'
   // },
   {
