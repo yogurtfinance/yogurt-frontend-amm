@@ -67,7 +67,7 @@ const config: MenuEntry[] = [
         href: "https://github.com/yogurtfinance/",
       },
       {
-        label: "Github",
+        label: "Docs",
         href: "https://yogurtfinance.gitbook.io/yogurt-finance/"
       },
     ],
