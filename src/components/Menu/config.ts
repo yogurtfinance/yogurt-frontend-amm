@@ -66,6 +66,10 @@ const config: MenuEntry[] = [
         label: "Github",
         href: "https://github.com/yogurtfinance/",
       },
+      {
+        label: "Github",
+        href: "https://yogurtfinance.gitbook.io/yogurt-finance/"
+      },
     ],
   },
 
