@@ -70,6 +70,10 @@ const config: MenuEntry[] = [
         label: "Docs",
         href: "https://yogurtfinance.gitbook.io/yogurt-finance/"
       },
+      {
+        label: "RoadMap",
+        href: "https://yogurtfinance.gitbook.io/yogurt-finance/roadmap"
+      },
     ],
   },
 
